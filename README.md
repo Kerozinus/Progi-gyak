@@ -1,0 +1,2 @@
+# Progi-gyak
+Gyakorlasok,minden
