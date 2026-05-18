@@ -1,0 +1,14 @@
+Chelsea;Liverpool;1;1;X
+MTK;DVSC;1;0;1
+Puskás Akadémia;Honvéd;0;2;2
+Bielefeld;RB Leipzig;2;2;X
+Leverkusen;Freiburg;2;1;1
+Dortmund;Hertha BSC;2;0;1
+Wolfsburg;Bayern München;1;1;X
+Atl. Madrid;Sevilla;1;1;X
+Cadiz;Real Madrid;2;2;X
+Getafe;Barcelona;0;0;X
+Roma;Venezia;1;1;X
+Napoli;Genoa;1;0;1
+Cagliari;Internazionale;1;2;2
+Milan;Atalanta;3;1;1
